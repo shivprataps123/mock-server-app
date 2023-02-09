@@ -1,0 +1,26 @@
+{
+    "Books": [
+      {
+        "image_url": "C:\\fakepath\\ganesh_ji_sund_1200.jpeg",
+        "book_name": "ganesha",
+        "author": "ganpati",
+        "genre": "History",
+        "edition": "Science",
+        "publisher": "saraswati",
+        "cost": "342",
+        "borrowed": false,
+        "id": 1
+      },
+      {
+        "image_url": "C:\\fakepath\\ganesh_ji_sund_1200.jpeg",
+        "book_name": "ganesha",
+        "author": "ganpati",
+        "genre": "History",
+        "edition": "Science",
+        "publisher": "saraswati",
+        "cost": "342",
+        "borrowed": false,
+        "id": 1
+      }
+    ]
+  }
